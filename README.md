@@ -1,5 +1,6 @@
-# FianaceEventGraph
-FinaceEventGraph，金融领域事件图谱开放数据集，可用于事件图谱搭建于实验，包括3865个acquire并购事件、9093个invest投资事件，总计12960的事件。
+# FinanceEventGraph
+
+FinanceEventGraph，金融领域事件图谱开放数据集，可用于事件图谱搭建于实验，包括3865个acquire并购事件、9093个invest投资事件，总计12960的事件。
 
 ## 数据样例
 
